@@ -1,0 +1,6 @@
+[submodule ".themes/YinYang"]
+	path = .themes/YinYang
+	url = https://github.com/svet-tcselitelstva/svet-tcselitelstva.github.io.git
+[submodule ".themes/BlogTheme"]
+	path = .themes/BlogTheme
+	url = https://github.com/svet-tcselitelstva/svet-tcselitelstva.github.io.git
