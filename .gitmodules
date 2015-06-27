@@ -4,3 +4,6 @@
 [submodule ".themes/BlogTheme"]
 	path = .themes/BlogTheme
 	url = https://github.com/svet-tcselitelstva/svet-tcselitelstva.github.io.git
+[submodule ".themes/syui.github.io"]
+	path = .themes/syui.github.io
+	url = https://github.com/syui/syui.github.io.git
